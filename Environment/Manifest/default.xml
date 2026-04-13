@@ -3,6 +3,6 @@
   <remote name="origin" fetch="https://github.com/valllshapkin/" />
   <default revision="main" remote="origin" sync-j="4" />
   <project path="AnimalSpecis" name="AnimalSpecis.git" />
-  <project path="BatAnnotatio" name="BatAnnotation.git" />
+  <project path="BatAnnotation" name="BatAnnotation.git" />
   <project path="AdaptiveSequenogram" name="AdaptiveSequenograms.git" />
 </manifest>
