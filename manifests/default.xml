@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="git@github.com:valllshapkin/" />
+  <remote name="origin" fetch="https://github.com/valllshapkin/" />
   <default revision="main" remote="origin" sync-j="4" />
   <project path="AnimalSpecis" name="AnimalSpecis.git" />
   <project path="BatAnnotatio" name="BatAnnotation.git" />
